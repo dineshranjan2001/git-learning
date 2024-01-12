@@ -14,9 +14,5 @@ public class PallindromeNumber{
         tempt=tempt/10;
     }
     return (number==reverseNumber)?true:false;
-  }
-
-  public void check(){}
-    public void check1(){}
-  
+  }  
 }
