@@ -17,5 +17,6 @@ public class PallindromeNumber{
   }
 
   public void check(){}
+    public void check1(){}
   
 }
