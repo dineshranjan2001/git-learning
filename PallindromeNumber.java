@@ -15,4 +15,7 @@ public class PallindromeNumber{
     }
     return (number==reverseNumber)?true:false;
   }  
+  public boolean check(){
+    return false;
+  }
 }
